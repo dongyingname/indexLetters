@@ -1,3 +1,5 @@
+//the index of each letter is refer to its position in the string that includes spaces
+
 function countLetters(input) {
   var result = {};
   for (var i = 0; i < input.length; i++){
